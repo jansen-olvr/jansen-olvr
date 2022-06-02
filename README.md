@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Jansen Oliveira 👋
 
 - 🔭 Atualmente estou trabalhando com Engenharia Elétrica
-- 😎 Formação em Data Science
-- 🚀 Experiência com Python, JavaScript, Banco de Dados SQL, Power BI, Git e Github
-- 🌱 Estou estudando Business Inteligence
+- 🚀 Estudos em Python, JavaScript, Banco de Dados SQL, Power BI, Git e Github
+- 🌱 Desejo Estudar: Desenvolvimento de Software Fullstack
 - ⚡ Fun fact: "In God we trust all others must bring data"
 
 <div align="center">
